@@ -1,2 +1,3 @@
 # Test-1
-Testing gib and GitHub
+Testing Gib and GitHub
+Editing the readme.md file
